@@ -1,6 +1,6 @@
 {
   "name": "cardscript-doc-generator",
-  "description": "Produces Cardscript's main README.md file using Cardscript's JSON Schema and other sources.",
+  "description": "Produces markdown documentation for Cardscript.",
   "version": "0.0.0-semantically-released",
   "author": "Tim Needham",
   "keywords": ["tymly", "cardscript"],
