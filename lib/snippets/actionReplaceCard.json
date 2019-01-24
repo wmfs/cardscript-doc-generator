@@ -1,0 +1,8 @@
+{
+  "type": "Action.ReplaceCard",
+  "title": "ReplaceCard: Amend Order",
+  "stateMachineName": "pizza_amendOrder_1_0",
+  "input": {
+    "pizzaId": 123
+  }
+}

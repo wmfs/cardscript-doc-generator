@@ -1,0 +1,8 @@
+{
+  "type": "Action.PushCard",
+  "title": "PushCard: Amend Order",
+  "stateMachineName": "pizza_amendOrder_1_0",
+  "input": {
+    "pizzaId": 123
+  }
+}
