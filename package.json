@@ -10,7 +10,7 @@
     "ejs": "2.6.1",
     "jsonfile": "5.0.0",
     "lodash": "4.17.11",
-    "upath": "1.1.0",
+    "upath": "1.1.1",
     "@wmfs/cardscript-examples": "1.1.0",
     "@wmfs/cardscript-schema": "1.5.0"
   },
