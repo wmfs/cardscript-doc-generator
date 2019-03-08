@@ -12,7 +12,7 @@
     "lodash": "4.17.11",
     "upath": "1.1.0",
     "@wmfs/cardscript-examples": "1.1.0",
-    "@wmfs/cardscript-schema": "1.5.0"
+    "@wmfs/cardscript-schema": "1.6.0"
   },
   "devDependencies": {
     "chai": "4.2.0",
