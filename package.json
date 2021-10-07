@@ -11,7 +11,7 @@
     "jsonfile": "5.0.0",
     "lodash": "4.17.21",
     "upath": "1.1.2",
-    "@wmfs/cardscript-examples": "1.1.0",
+    "@wmfs/cardscript-examples": "1.22.0",
     "@wmfs/cardscript-schema": "1.5.0"
   },
   "devDependencies": {
