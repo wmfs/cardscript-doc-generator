@@ -8,7 +8,7 @@
   "dependencies": {
     "dottie": "2.0.2",
     "ejs": "3.1.8",
-    "jsonfile": "5.0.0",
+    "jsonfile": "6.1.0",
     "lodash": "4.17.21",
     "upath": "1.2.0",
     "@wmfs/cardscript-examples": "1.22.0",
